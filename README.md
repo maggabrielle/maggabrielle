@@ -2,8 +2,9 @@
 
 <br>
 
-```
-✦ · ✦ · ✦```
+✦ · ✦ · ✦
+
+<br>
 
 **Data Analyst** · Belo Horizonte, Brazil
 

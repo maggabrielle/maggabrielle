@@ -4,8 +4,6 @@
 <br>
 
 ```
-  ✦  G A B R I E L L E   M A G A L H Ã E S  ✦
-```
 
 **Data Analyst** · Belo Horizonte, Brazil
 
@@ -17,11 +15,8 @@
 
 <br>
 
----
 
 </div>
-
-### ✦ about
 
 ### ✦ about
 
@@ -32,7 +27,6 @@ Comfortable working across domains. My focus is on the analytical process: under
 
 <br>
 
----
 
 ### ✦ stack
 

@@ -1,8 +1,7 @@
-# Gabrielle Magalhães Soares
+# Gabrielle Magalhães
 
-Data Analyst with a background in growth and conversion rate optimization. I work at the intersection of business strategy and data analysis, translating user behavior into actionable insights.
-
-Currently building my portfolio in product and growth analytics, with projects focused on SaaS funnel analysis, user activation metrics, and A/B testing.
+Data Analyst with experience in behavioral analysis, A/B testing, and funnel analytics.
+Currently focused on building end-to-end analytical projects: from SQL queries to Python-based EDA and data-driven conclusions.
 
 Based in Belo Horizonte, Brazil.
 
@@ -16,6 +15,12 @@ Based in Belo Horizonte, Brazil.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
+**Libraries**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat)
+![seaborn](https://img.shields.io/badge/seaborn-4c72b0?style=flat)
+
 **Visualization & BI**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -27,12 +32,13 @@ Based in Belo Horizonte, Brazil.
 ### Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [SaaS Funnel Analysis](https://github.com/maggabrielle/saas-funnel-analysis) | Conversion funnel analysis for a B2B SaaS, identifying drop-off points and A/B test hypotheses | Python, Pandas |
-| [User Activation Metrics](https://github.com/maggabrielle/activation-metrics) | Activation rate analysis and time-to-value for a Fintech/ERP product, with retention impact | Python, Pandas |
+| --- | --- | --- |
+| [HR Attrition Analysis](https://github.com/maggabrielle/hr-attrition-analysis) | Exploratory analysis of employee turnover patterns. Identifies high-risk employees using SQL (CTEs, window functions) and Python EDA. 336 active employees flagged at risk. | SQL Server, Python, pandas, matplotlib, seaborn |
+| [SaaS Funnel Analysis](https://github.com/maggabrielle/saas-funnel-analysis) | Conversion funnel analysis for a B2B SaaS, identifying drop-off points and hypothesis generation for experimentation | Python, pandas |
+| [User Activation Metrics](https://github.com/maggabrielle/activation-metrics) | Activation rate analysis and time-to-value tracking with retention impact assessment | Python, pandas |
 
 ---
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/maggabrielle)
+[LinkedIn](https://www.linkedin.com/in/gabriellemagalhaes/)

@@ -23,7 +23,7 @@
 ### ✦ about
 
 Data analyst with a background in behavioral analysis, experimentation, and metrics-driven decision making.
-I work end-to-end — from SQL queries and Python-based EDA to translating findings into clear, actionable conclusions.
+I work end-to-end, from SQL queries and Python-based EDA to translating findings into clear, actionable conclusions.
 
 Comfortable working across domains. My focus is on the analytical process: understanding the data, asking the right questions, and delivering results that drive decisions.
 

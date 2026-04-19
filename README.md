@@ -1,9 +1,9 @@
-# Gabrielle Magalhães
 <div align="center">
 
 <br>
 
 ```
+✦ · ✦ · ✦```
 
 **Data Analyst** · Belo Horizonte, Brazil
 
@@ -15,6 +15,7 @@
 
 <br>
 
+---
 
 </div>
 
@@ -27,6 +28,7 @@ Comfortable working across domains. My focus is on the analytical process: under
 
 <br>
 
+---
 
 ### ✦ stack
 
